@@ -25,7 +25,6 @@ public class MainBanana{
 		Collections.sort(bananas);
 		for (Banana b:bananas)
 		 System.out.println(b);
-
 	}
 
 	
